@@ -1,1 +1,1 @@
-SEO Script
+# SEO Script
